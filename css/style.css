@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+
+*{
+    padding: 0px;
+    margin:0px;
+    font-family: "Nunito Sans", sans-serif;
+}
+
+.inicio{
+    width: 180vh;  
+    height: 20vh;
+    margin-left: 8em;
+}
+
+nav{
+    text-align: center;
+    margin-top: 15px;
+}
+
+nav div{
+    display: inline-block;
+}
+
+.iconos p{
+    display: inline-block;
+    margin-top: 5px;
+    font-weight: bold;
+}
+.opciones{
+    margin-left: 100px;
+}
+
+a{
+    text-decoration: none;
+    color:rgba(0,0,0,0.65);
+    margin:0 20px;
+}
+
+.boton {
+    background-color: rgb(116, 198, 253);
+    color:white;
+    padding: 5px 15px 5px 15px;
+    border-radius: 10px;
+}
+
+.logo{
+    width: 30px;
+    height: 30px;
+    vertical-align: top;
+}
+
+.contenido{
+    margin-top:7em;
+}
+
+.texto{
+    width: 44%;
+    height: 50%;
+    display: inline-block;
+    margin-left: 12em;
+}
+
+.texto h2{
+    margin-bottom:20px;
+    font-size:36px;
+
+}
+
+.texto p{
+    margin-bottom: 40px;
+    font-size:14px;
+    color:rgba(0,0,0,0.65);
+}
+
+div .boton2{
+    background-color: rgb(116, 198, 253);
+    color:white;
+    padding: 12px 30px;
+    border-radius: 10px;
+    margin-left: 12em;
+}
+
+img{
+    width:25%;
+}
